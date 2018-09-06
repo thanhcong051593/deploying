@@ -60,7 +60,7 @@
       
       B3: cấu hình xcode để build 
       
-      ![alt text](https://github.com/thanhcong051593/deploying/blob/master/19747941055_6ec9e7e2e5_b.jpg "setting")
+![alt text](https://github.com/thanhcong051593/deploying/blob/master/19747941055_6ec9e7e2e5_b.jpg "setting")
       
       B4: để tiến hành build
       chọn Product -> archive
