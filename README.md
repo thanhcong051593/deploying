@@ -69,6 +69,14 @@
       chọn window
      
 # 3. So sánh build app native với build bằng expo
+- Expo 
+    - ưu điểm: build dễ dàng, nhanh
+    - nhược điểm: file build có dung lượng lớn
+    
+- Build native
+    - ưu điểm: file build dung lượng nhẹ, code native
+    - nhược điểm: config để build khó khăn, chỉ build được android trên android studio, chỉ build app ios trên xcode.
+    
 
 
       
