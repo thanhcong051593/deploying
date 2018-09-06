@@ -51,6 +51,27 @@
       link tham khảo: https://facebook.github.io/react-native/docs/signed-apk-android
       
       
-## 2. Build app Ios
+## 2. Build app IOS
+      
+      B1: cài đặt xcode trên macosx( tải xcode từ appstore)
+      
+      B2: truy cập vào thư mục gốc của dự án và chạy lệnh sau bằng terminal
+      $ react-native link
+      
+      B3: cấu hình xcode để build 
+      
+      ![alt text](https://github.com/thanhcong051593/deploying/blob/master/19747941055_6ec9e7e2e5_b.jpg "setting")
+      
+      B4: để tiến hành build
+      chọn Product -> archive
+      
+      B5: Để tới nơi chưa app ios vừa build 
+      chọn window
+     
+# 3. So sánh build app native với build bằng expo
+
+
+      
+      
 
 
